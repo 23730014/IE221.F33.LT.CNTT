@@ -23,6 +23,7 @@ He_thong_quan_ly_chi_tieu_Python_Final/
 ```
 
 ## 3. Cài đặt
+Sau khi tải file Project.zip trong folder Source Code
 ```bash
 pip install -r requirements.txt
 ```
