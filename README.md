@@ -1,5 +1,7 @@
 # Hệ thống quản lý chi tiêu cá nhân và phân tích thói quen tài chính
 
+#Các file báo cáo gồm: doc, powerpoint, code, demo, đều nằm trong folder Final Report
+
 ## 1. Mục tiêu
 Ứng dụng console bằng Python giúp quản lý giao dịch thu/chi, lọc dữ liệu, quản lý ngân sách, phân tích thói quen chi tiêu và tạo biểu đồ.
 
@@ -23,7 +25,7 @@ He_thong_quan_ly_chi_tieu_Python_Final/
 ```
 
 ## 3. Cài đặt
-Sau khi tải file Project.zip trong folder Source Code
+Sau khi tải file Project.zip trong folder Final Report
 ```bash
 pip install -r requirements.txt
 ```
