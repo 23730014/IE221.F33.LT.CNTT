@@ -1,0 +1,121 @@
+﻿id,date,type,category,amount,description
+1,2026-04-01,income,Khác,12000000,Lương tháng
+2,2026-04-20,expense,Mua sắm,568839,Mua đồ dùng
+3,2026-04-11,expense,Ăn uống,128263,Ăn uống
+4,2026-04-24,expense,Y tế,471779,Chi phí y tế
+5,2026-04-06,expense,Học tập,238106,Tài liệu học tập
+6,2026-04-17,expense,Y tế,537269,Chi phí y tế
+7,2026-04-14,expense,Ăn uống,88190,Ăn uống
+8,2026-04-06,expense,Đi lại,130425,Di chuyển
+9,2026-04-23,expense,Hóa đơn,824364,Thanh toán hóa đơn
+10,2026-04-11,expense,Mua sắm,511071,Mua đồ dùng
+11,2026-04-05,expense,Ăn uống,102872,Ăn uống
+12,2026-04-11,expense,Mua sắm,246607,Mua đồ dùng
+13,2026-04-12,expense,Ăn uống,85101,Ăn uống
+14,2026-04-04,expense,Khác,331751,Chi tiêu khác
+15,2026-04-21,expense,Giải trí,221805,Giải trí
+16,2026-04-18,expense,Ăn uống,104353,Ăn uống
+17,2026-04-19,expense,Mua sắm,338307,Mua đồ dùng
+18,2026-04-02,expense,Học tập,329008,Tài liệu học tập
+19,2026-04-19,expense,Ăn uống,124945,Ăn uống
+20,2026-04-04,expense,Ăn uống,53236,Ăn uống
+21,2026-04-27,expense,Ăn uống,159720,Ăn uống
+22,2026-04-06,expense,Ăn uống,179575,Ăn uống
+23,2026-04-08,expense,Mua sắm,487514,Mua đồ dùng
+24,2026-04-09,expense,Giải trí,321146,Giải trí
+25,2026-04-09,expense,Ăn uống,175115,Ăn uống
+26,2026-04-18,expense,Ăn uống,152881,Ăn uống
+27,2026-04-02,expense,Ăn uống,92849,Ăn uống
+28,2026-04-13,expense,Học tập,125737,Tài liệu học tập
+29,2026-04-14,expense,Giải trí,205051,Giải trí
+30,2026-04-26,expense,Hóa đơn,1149583,Thanh toán hóa đơn
+31,2026-05-01,income,Khác,12000000,Lương tháng
+32,2026-05-24,expense,Mua sắm,699311,Mua đồ dùng
+33,2026-05-12,expense,Giải trí,240418,Giải trí
+34,2026-05-04,expense,Học tập,228360,Tài liệu học tập
+35,2026-05-23,expense,Hóa đơn,268233,Thanh toán hóa đơn
+36,2026-05-07,expense,Mua sắm,343387,Mua đồ dùng
+37,2026-05-05,expense,Ăn uống,108261,Ăn uống
+38,2026-05-10,expense,Ăn uống,115221,Ăn uống
+39,2026-05-15,expense,Ăn uống,43149,Ăn uống
+40,2026-05-07,expense,Giải trí,228484,Giải trí
+41,2026-05-19,expense,Khác,161589,Chi tiêu khác
+42,2026-05-18,expense,Hóa đơn,676046,Thanh toán hóa đơn
+43,2026-05-16,expense,Ăn uống,161236,Ăn uống
+44,2026-05-22,expense,Khác,77390,Chi tiêu khác
+45,2026-05-18,expense,Hóa đơn,787342,Thanh toán hóa đơn
+46,2026-05-21,expense,Hóa đơn,623152,Thanh toán hóa đơn
+47,2026-05-19,expense,Ăn uống,90106,Ăn uống
+48,2026-05-14,expense,Đi lại,135470,Di chuyển
+49,2026-05-13,expense,Mua sắm,428586,Mua đồ dùng
+50,2026-05-24,expense,Giải trí,222953,Giải trí
+51,2026-05-02,expense,Mua sắm,281277,Mua đồ dùng
+52,2026-05-12,expense,Khác,242728,Chi tiêu khác
+53,2026-05-16,expense,Ăn uống,160543,Ăn uống
+54,2026-05-12,expense,Giải trí,88430,Giải trí
+55,2026-05-03,expense,Mua sắm,680622,Mua đồ dùng
+56,2026-05-21,expense,Đi lại,141006,Di chuyển
+57,2026-05-06,expense,Ăn uống,133862,Ăn uống
+58,2026-05-02,expense,Khác,308040,Chi tiêu khác
+59,2026-05-26,expense,Đi lại,128660,Di chuyển
+60,2026-05-24,expense,Ăn uống,75846,Ăn uống
+61,2026-06-01,income,Khác,12000000,Lương tháng
+62,2026-06-03,expense,Hóa đơn,877478,Thanh toán hóa đơn
+63,2026-06-24,expense,Ăn uống,104254,Ăn uống
+64,2026-06-21,expense,Khác,256778,Chi tiêu khác
+65,2026-06-18,expense,Ăn uống,50457,Ăn uống
+66,2026-06-27,expense,Giải trí,249144,Giải trí
+67,2026-06-16,expense,Khác,143598,Chi tiêu khác
+68,2026-06-20,expense,Ăn uống,154271,Ăn uống
+69,2026-06-03,expense,Y tế,227432,Chi phí y tế
+70,2026-06-23,expense,Giải trí,280010,Giải trí
+71,2026-06-23,expense,Hóa đơn,986066,Thanh toán hóa đơn
+72,2026-06-11,expense,Đi lại,57423,Di chuyển
+73,2026-06-13,expense,Mua sắm,426263,Mua đồ dùng
+74,2026-06-14,expense,Hóa đơn,646927,Thanh toán hóa đơn
+75,2026-06-14,expense,Đi lại,49822,Di chuyển
+76,2026-06-25,expense,Đi lại,123069,Di chuyển
+77,2026-06-15,expense,Giải trí,167465,Giải trí
+78,2026-06-04,expense,Ăn uống,66404,Ăn uống
+79,2026-06-20,expense,Học tập,478859,Tài liệu học tập
+80,2026-06-10,expense,Học tập,227844,Tài liệu học tập
+81,2026-06-16,expense,Ăn uống,95634,Ăn uống
+82,2026-06-17,expense,Hóa đơn,702815,Thanh toán hóa đơn
+83,2026-06-20,expense,Ăn uống,79944,Ăn uống
+84,2026-06-22,expense,Ăn uống,69024,Ăn uống
+85,2026-06-17,expense,Ăn uống,168469,Ăn uống
+86,2026-06-02,expense,Ăn uống,70093,Ăn uống
+87,2026-06-23,expense,Mua sắm,464594,Mua đồ dùng
+88,2026-06-09,expense,Ăn uống,145308,Ăn uống
+89,2026-06-04,expense,Đi lại,22258,Di chuyển
+90,2026-06-20,expense,Giải trí,269761,Giải trí
+91,2026-07-01,income,Khác,12000000,Lương tháng
+92,2026-07-24,expense,Giải trí,249783,Giải trí
+93,2026-07-06,expense,Hóa đơn,762880,Thanh toán hóa đơn
+94,2026-07-04,expense,Khác,212819,Chi tiêu khác
+95,2026-07-19,expense,Mua sắm,477344,Mua đồ dùng
+96,2026-07-05,expense,Khác,106728,Chi tiêu khác
+97,2026-07-06,expense,Đi lại,80895,Di chuyển
+98,2026-07-20,expense,Hóa đơn,478934,Thanh toán hóa đơn
+99,2026-07-03,expense,Y tế,171153,Chi phí y tế
+100,2026-07-06,expense,Mua sắm,505838,Mua đồ dùng
+101,2026-07-16,expense,Ăn uống,106402,Ăn uống
+102,2026-07-14,expense,Học tập,150225,Tài liệu học tập
+103,2026-07-26,expense,Hóa đơn,590803,Thanh toán hóa đơn
+104,2026-07-27,expense,Hóa đơn,1158229,Thanh toán hóa đơn
+105,2026-07-24,expense,Ăn uống,105598,Ăn uống
+106,2026-07-07,expense,Ăn uống,158165,Ăn uống
+107,2026-07-05,expense,Ăn uống,156901,Ăn uống
+108,2026-07-18,expense,Giải trí,187017,Giải trí
+109,2026-07-15,expense,Hóa đơn,238941,Thanh toán hóa đơn
+110,2026-07-15,expense,Học tập,267948,Tài liệu học tập
+111,2026-07-12,expense,Đi lại,84478,Di chuyển
+112,2026-07-15,expense,Đi lại,94562,Di chuyển
+113,2026-07-11,expense,Ăn uống,62932,Ăn uống
+114,2026-07-17,expense,Hóa đơn,612586,Thanh toán hóa đơn
+115,2026-07-18,expense,Khác,116233,Chi tiêu khác
+116,2026-07-16,expense,Ăn uống,65811,Ăn uống
+117,2026-07-13,expense,Ăn uống,105306,Ăn uống
+118,2026-07-22,expense,Mua sắm,361700,Mua đồ dùng
+119,2026-07-04,expense,Ăn uống,145873,Ăn uống
+120,2026-07-05,expense,Ăn uống,115661,Ăn uống
