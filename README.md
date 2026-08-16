@@ -1,5 +1,7 @@
 # Hệ thống quản lý chi tiêu cá nhân và phân tích thói quen tài chính
 
+##Sau khi tải file zip
+
 ## 1. Cài đặt
 
 Mở Terminal/CMD tại thư mục project và chạy:
